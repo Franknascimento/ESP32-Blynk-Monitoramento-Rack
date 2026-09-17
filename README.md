@@ -1,6 +1,9 @@
 # ESP32-Blynk-Monitoramento-Rack
 
 Sistema IoT para monitoramento de rack/ambiente de servidor, desenvolvido com **ESP32**, **DHT11**, **HC-SR04** e **Blynk IoT**.
+## 🖥️ Simulação no Wokwi
+
+![Simulação do projeto no Wokwi](simulacao/git.png)
 
 ## 📌 Objetivo
 
