@@ -1,6 +1,7 @@
 # Simulação no Wokwi
 
 A simulação do sistema foi desenvolvida utilizando a plataforma Wokwi.
+![Simulação do projeto no Wokwi](git.png)
 
 ## Componentes utilizados
 
