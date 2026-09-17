@@ -74,3 +74,20 @@ char pass[] = "SUA_SENHA_WIFI";
 #define BLYNK_TEMPLATE_ID "SEU_TEMPLATE_ID"
 #define BLYNK_TEMPLATE_NAME "ESP32 control"
 #define BLYNK_AUTH_TOKEN "SEU_BLYNK_AUTH_TOKEN"
+## 📁 Estrutura do repositório
+
+- 📂 **[codigo](codigo/)** — código-fonte principal do ESP32.
+- 📂 **[simulacao](simulacao/)** — arquivos da simulação no Wokwi, incluindo código, circuito e documentação.
+- 📄 **[README da simulação](simulacao/README.md)** — descrição da montagem e funcionamento da simulação.
+
+## 🔗 Acesso rápido
+
+- [Código do ESP32](codigo/ESP32_Rack_Blynk.ino)
+- [Simulação no Wokwi](simulacao/)
+- [README da simulação](simulacao/README.md)
+
+## 👨‍💻 Autor
+
+**Frank Nascimento**
+
+Projeto acadêmico de IoT para monitoramento de ambiente/rack de servidor.
